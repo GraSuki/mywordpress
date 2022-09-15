@@ -9,8 +9,8 @@
 
 <channel>
 	<title>My wordpress</title>
-	<atom:link href="https://github.com/GraSuki/mywordpress.git/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/GraSuki/mywordpress.git</link>
+	<atom:link href="https://grasuki.github.io/mywordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://grasuki.github.io/mywordpress</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 30 Aug 2022 07:03:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,31 +21,31 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>DEMO</title>
-		<link>https://github.com/GraSuki/mywordpress.git/demo/</link>
-					<comments>https://github.com/GraSuki/mywordpress.git/demo/#respond</comments>
+		<link>https://grasuki.github.io/mywordpress/demo/</link>
+					<comments>https://grasuki.github.io/mywordpress/demo/#respond</comments>
 		
 		<dc:creator><![CDATA[lethanhtien]]></dc:creator>
 		<pubDate>Tue, 30 Aug 2022 07:03:58 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://github.com/GraSuki/mywordpress.git/?p=37</guid>
+		<guid isPermaLink="false">https://grasuki.github.io/mywordpress/?p=37</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://github.com/GraSuki/mywordpress.git/demo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://grasuki.github.io/mywordpress/demo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nên ăn gì vào buổi sáng để tốt cho sức khỏe?</title>
-		<link>https://github.com/GraSuki/mywordpress.git/nen-an-gi-vao-buoi-sang-de-tot-cho-suc-khoe/</link>
-					<comments>https://github.com/GraSuki/mywordpress.git/nen-an-gi-vao-buoi-sang-de-tot-cho-suc-khoe/#respond</comments>
+		<link>https://grasuki.github.io/mywordpress/nen-an-gi-vao-buoi-sang-de-tot-cho-suc-khoe/</link>
+					<comments>https://grasuki.github.io/mywordpress/nen-an-gi-vao-buoi-sang-de-tot-cho-suc-khoe/#respond</comments>
 		
 		<dc:creator><![CDATA[lethanhtien]]></dc:creator>
 		<pubDate>Tue, 23 Aug 2022 08:13:32 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://github.com/GraSuki/mywordpress.git/?p=5</guid>
+		<guid isPermaLink="false">https://grasuki.github.io/mywordpress/?p=5</guid>
 
 					<description><![CDATA[Bữa sáng là bữa ăn quan trọng nhất trong ngày, nó giúp cung cấp năng lượng sau một đêm dài và khởi động quá trình trao đổi chất của cơ thể. Vì...]]></description>
 										<content:encoded><![CDATA[
@@ -61,7 +61,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img width="5472" height="3648" src="https://github.com/GraSuki/mywordpress.git/wp-content/uploads/2022/08/tamanna-rumee-p-8A8Joo-Rc-unsplash.jpg" alt="" class="wp-image-7"/></figure>
+<figure class="wp-block-image size-full"><img width="5472" height="3648" src="https://grasuki.github.io/mywordpress/wp-content/uploads/2022/08/tamanna-rumee-p-8A8Joo-Rc-unsplash.jpg" alt="" class="wp-image-7"/></figure>
 
 
 
@@ -109,7 +109,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="5547" height="3689" src="https://github.com/GraSuki/mywordpress.git/wp-content/uploads/2022/08/sara-cervera-4caIPcmVDII-unsplash.jpg" alt="" class="wp-image-9"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="5547" height="3689" src="https://grasuki.github.io/mywordpress/wp-content/uploads/2022/08/sara-cervera-4caIPcmVDII-unsplash.jpg" alt="" class="wp-image-9"/></figure>
 
 
 
@@ -185,7 +185,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="2875" height="2875" src="https://github.com/GraSuki/mywordpress.git/wp-content/uploads/2022/08/elianna-friedman-4jpNPu7IW8k-unsplash.jpg" alt="" class="wp-image-10"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="2875" height="2875" src="https://grasuki.github.io/mywordpress/wp-content/uploads/2022/08/elianna-friedman-4jpNPu7IW8k-unsplash.jpg" alt="" class="wp-image-10"/></figure>
 
 
 
@@ -201,7 +201,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="8040" height="6024" src="https://github.com/GraSuki/mywordpress.git/wp-content/uploads/2022/08/thought-catalog-9aOswReDKPo-unsplash-1.jpg" alt="" class="wp-image-11"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="8040" height="6024" src="https://grasuki.github.io/mywordpress/wp-content/uploads/2022/08/thought-catalog-9aOswReDKPo-unsplash-1.jpg" alt="" class="wp-image-11"/></figure>
 
 
 
@@ -221,7 +221,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="5472" height="3648" src="https://github.com/GraSuki/mywordpress.git/wp-content/uploads/2022/08/louis-hansel-pKsgUVm6PC0-unsplash.jpg" alt="" class="wp-image-14"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="5472" height="3648" src="https://grasuki.github.io/mywordpress/wp-content/uploads/2022/08/louis-hansel-pKsgUVm6PC0-unsplash.jpg" alt="" class="wp-image-14"/></figure>
 
 
 
@@ -269,7 +269,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="4391" height="5489" src="https://github.com/GraSuki/mywordpress.git/wp-content/uploads/2022/08/eiliv-sonas-aceron-R6qyvAySjOU-unsplash.jpg" alt="" class="wp-image-15"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="4391" height="5489" src="https://grasuki.github.io/mywordpress/wp-content/uploads/2022/08/eiliv-sonas-aceron-R6qyvAySjOU-unsplash.jpg" alt="" class="wp-image-15"/></figure>
 
 
 
@@ -297,7 +297,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="3587" height="5381" src="https://github.com/GraSuki/mywordpress.git/wp-content/uploads/2022/08/calum-lewis-KMx5YilipX0-unsplash.jpg" alt="" class="wp-image-17"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="3587" height="5381" src="https://grasuki.github.io/mywordpress/wp-content/uploads/2022/08/calum-lewis-KMx5YilipX0-unsplash.jpg" alt="" class="wp-image-17"/></figure>
 
 
 
@@ -308,27 +308,27 @@
 <p><strong>Tăng cường năng lượng: </strong>ngũ cốc giàu Calo và là nguồn cung cấp năng lượng tốt cho cơ thể. Ăn một chén ngũ cốc như yến mạch vào buổi sáng sẽ cung cấp năng lượng để hoạt động trong ngày.<br><strong>Phòng ngừa táo bón:</strong> ngũ cốc giàu chất xơ, thường xuyên ăn ngũ cốc vào bữa sáng giúp phòng ngừa táo bón và hỗ trợ nhu động ruột.<br><strong>Tốt cho tiêu hóa: </strong>ngũ cốc tốt cho tiêu hóa do nhiều chất xơ và prebiotics, là môi trường phát triển lý tưởng cho lợi khuẩn.<br>Hỗ trợ kiểm soát nồng độ đường huyết: hàm lượng chất xơ trong ngũ cốc giúp giảm bài tiết glucose và duy trì nồng độ đường huyết ổn định trong máu.<br><strong>Giảm nồng độ cholesteron, tốt cho tim: </strong>ngũ cốc chứa chất xơ hòa tan giúp giảm nông độ cholesteron và phòng ngừa các bệnh liên quan đến tim.<br><strong>Duy trì cân nặng:</strong> do giàu chất xơ, ngũ cốc giúp bạn no lâu và hạn chế việc ăn uống quá mức.<br><strong>Phòng ngừa ung thư:</strong> một số nghiên cứu cho thấy ngũ cốc giúp phòng ngừa ung thư đại tràng và ngăn chặn sự tăng trưởng của các tế bào ung thư vú.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://github.com/GraSuki/mywordpress.git/nen-an-gi-vao-buoi-sang-de-tot-cho-suc-khoe/feed/</wfw:commentRss>
+					<wfw:commentRss>https://grasuki.github.io/mywordpress/nen-an-gi-vao-buoi-sang-de-tot-cho-suc-khoe/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>https://github.com/GraSuki/mywordpress.git/hello-world/</link>
-					<comments>https://github.com/GraSuki/mywordpress.git/hello-world/#comments</comments>
+		<link>https://grasuki.github.io/mywordpress/hello-world/</link>
+					<comments>https://grasuki.github.io/mywordpress/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[lethanhtien]]></dc:creator>
 		<pubDate>Sun, 21 Aug 2022 05:49:12 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://github.com/GraSuki/mywordpress.git/?p=1</guid>
+		<guid isPermaLink="false">https://grasuki.github.io/mywordpress/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://github.com/GraSuki/mywordpress.git/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://grasuki.github.io/mywordpress/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

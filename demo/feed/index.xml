@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: DEMO	</title>
-	<atom:link href="https://github.com/GraSuki/mywordpress.git/demo/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/GraSuki/mywordpress.git/demo/</link>
+	<atom:link href="https://grasuki.github.io/mywordpress/demo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://grasuki.github.io/mywordpress/demo/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 30 Aug 2022 07:03:58 +0000</lastBuildDate>
 	<sy:updatePeriod>
