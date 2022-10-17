@@ -153,8 +153,6 @@ img.emoji {
 <link rel="stylesheet" id="dwas_styles-css" href="https://grasuki.github.io/mywordpress/wp-content/plugins/woo-vietnam-checkout/assets/css/devvn_dwas_style.css?ver=2.0.4" media="all">
 <link rel="stylesheet" id="select2-css" href="https://grasuki.github.io/mywordpress/wp-content/plugins/woocommerce/assets/css/select2.css?ver=6.9.4" media="all">
 <style id="woocommerce-inline-inline-css">.woocommerce form .form-row .required { visibility: visible; }</style>
-<link rel="stylesheet" id="megamenu-css" href="https://grasuki.github.io/mywordpress/wp-content/uploads/maxmegamenu/style.css?ver=f413d1" media="all">
-<link rel="stylesheet" id="dashicons-css" href="https://grasuki.github.io/mywordpress/wp-includes/css/dashicons.min.css?ver=6.0.2" media="all">
 <link rel="stylesheet" id="storefront-style-css" href="https://grasuki.github.io/mywordpress/wp-content/themes/storefront/style.css?ver=4.1.3" media="all">
 <style id="storefront-style-inline-css">.main-navigation ul li a,
 			.site-title a,
@@ -554,6 +552,10 @@ img.emoji {
 				}</style>
 <link rel="stylesheet" id="elementor-frontend-css" href="https://grasuki.github.io/mywordpress/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.7.4" media="all">
 <link rel="stylesheet" id="eael-general-css" href="https://grasuki.github.io/mywordpress/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.2.4" media="all">
+<script id="jquery-core-js-extra">
+var tpgb_load = {"ajaxUrl":"http:\/\/localhost\/test\/wp-admin\/admin-ajax.php"};
+var smoothAllowedBrowsers = [];
+</script>
 <script src="https://grasuki.github.io/mywordpress/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
 <script src="https://grasuki.github.io/mywordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
 <link rel="https://api.w.org/" href="https://grasuki.github.io/mywordpress/wp-json/">
@@ -567,10 +569,59 @@ img.emoji {
 <link rel="alternate" type="application/json+oembed" href="https://grasuki.github.io/mywordpress/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Ftest%2Fmy-account%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://grasuki.github.io/mywordpress/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Ftest%2Fmy-account%2F&#038;format=xml">
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-	<style type="text/css">/** Mega Menu CSS: fs **/</style>
+	<meta name="generator" content="Powered by Slider Revolution 6.6.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
 </head>
 
-<body class="page-template-default page page-id-244 wp-embed-responsive theme-storefront woocommerce-account woocommerce-page woocommerce-no-js mega-menu-primary storefront-secondary-navigation storefront-align-wide right-sidebar woocommerce-active elementor-default elementor-kit-45">
+<body class="page-template-default page page-id-244 wp-embed-responsive theme-storefront woocommerce-account woocommerce-page woocommerce-no-js storefront-secondary-navigation storefront-align-wide right-sidebar woocommerce-active elementor-default elementor-kit-45">
 
 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0.49803921568627"></fefuncr><fefuncg type="table" tablevalues="0 0.49803921568627"></fefuncg><fefuncb type="table" tablevalues="0 0.49803921568627"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.54901960784314 0.98823529411765"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0.71764705882353 0.25490196078431"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 0.27843137254902"></fefuncg><fefuncb type="table" tablevalues="0.5921568627451 0.27843137254902"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0"></fefuncr><fefuncg type="table" tablevalues="0 0.64705882352941"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.78039215686275 1"></fefuncr><fefuncg type="table" tablevalues="0 0.94901960784314"></fefuncg><fefuncb type="table" tablevalues="0.35294117647059 0.47058823529412"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.65098039215686 0.40392156862745"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0.44705882352941 0.4"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.098039215686275 1"></fefuncr><fefuncg type="table" tablevalues="0 0.66274509803922"></fefuncg><fefuncb type="table" tablevalues="0.84705882352941 0.41960784313725"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg>
 
@@ -585,11 +636,11 @@ img.emoji {
 <p class="site-description">Just another WordPress site</p>		</div>
 					<nav class="secondary-navigation" role="navigation" aria-label="Secondary Navigation">
 				<div class="menu-menucuoiki-container"><ul id="menu-menucuoiki" class="menu">
-<li id="menu-item-257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-257"><a href="https://grasuki.github.io/mywordpress/">HOME</a></li>
-<li id="menu-item-258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258"><a href="https://grasuki.github.io/mywordpress/blog/">BLOG</a></li>
-<li id="menu-item-260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-260"><a href="https://grasuki.github.io/mywordpress/shop/">SHOP</a></li>
-<li id="menu-item-259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-259"><a href="https://grasuki.github.io/mywordpress/contact/">CONTACT</a></li>
-<li id="menu-item-1424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1424"><a href="https://grasuki.github.io/mywordpress/about-us/">About us</a></li>
+<li id="menu-item-257" class="active menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-257"><a href="https://grasuki.github.io/mywordpress/">HOME</a></li>
+<li id="menu-item-258" class="blog menu-item menu-item-type-post_type menu-item-object-page menu-item-258"><a href="https://grasuki.github.io/mywordpress/blog/">BLOG</a></li>
+<li id="menu-item-260" class="shop menu-item menu-item-type-post_type menu-item-object-page menu-item-260"><a href="https://grasuki.github.io/mywordpress/shop/">SHOP</a></li>
+<li id="menu-item-259" class="contact menu-item menu-item-type-post_type menu-item-object-page menu-item-259"><a href="https://grasuki.github.io/mywordpress/contact/">CONTACT</a></li>
+<li id="menu-item-1424" class="aboutus menu-item menu-item-type-post_type menu-item-object-page menu-item-1424"><a href="https://grasuki.github.io/mywordpress/about-us/">ABOUT US</a></li>
 </ul></div>			</nav><!-- #site-navigation -->
 						<div class="site-search">
 				<div class="widget woocommerce widget_product_search">
@@ -603,30 +654,19 @@ img.emoji {
 			</div>
 <div class="storefront-primary-navigation"><div class="col-full">		<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Primary Navigation">
 		<button id="site-navigation-menu-toggle" class="menu-toggle" aria-controls="site-navigation" aria-expanded="false"><span>Menu</span></button>
-			<div id="mega-menu-wrap-primary" class="mega-menu-wrap">
-<div class="mega-menu-toggle">
-<div class="mega-toggle-blocks-left"></div>
-<div class="mega-toggle-blocks-center"></div>
-<div class="mega-toggle-blocks-right"><div class="mega-toggle-block mega-menu-toggle-animated-block mega-toggle-block-0" id="mega-toggle-block-0"><button aria-label="Toggle Menu" class="mega-toggle-animated mega-toggle-animated-slider" type="button" aria-expanded="false">
-                  <span class="mega-toggle-animated-box">
-                    <span class="mega-toggle-animated-inner"></span>
-                  </span>
-                </button></div></div>
-</div>
-<ul id="mega-menu-primary" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="hover" data-effect="slide" data-effect-speed="600" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-mobile-force-width="false" data-second-click="go" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="768" data-unbind="true" data-mobile-state="collapse_all" data-hover-intent-timeout="300" data-hover-intent-interval="100">
-<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-home mega-align-bottom-left mega-menu-flyout mega-menu-item-257" id="mega-menu-item-257"><a class="mega-menu-link" href="https://grasuki.github.io/mywordpress/" tabindex="0">HOME</a></li>
-<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-258" id="mega-menu-item-258"><a class="mega-menu-link" href="https://grasuki.github.io/mywordpress/blog/" tabindex="0">BLOG</a></li>
-<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-260" id="mega-menu-item-260"><a class="mega-menu-link" href="https://grasuki.github.io/mywordpress/shop/" tabindex="0">SHOP</a></li>
-<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-259" id="mega-menu-item-259"><a class="mega-menu-link" href="https://grasuki.github.io/mywordpress/contact/" tabindex="0">CONTACT</a></li>
-<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-1424" id="mega-menu-item-1424"><a class="mega-menu-link" href="https://grasuki.github.io/mywordpress/about-us/" tabindex="0">About us</a></li>
-</ul>
-</div>
-<div class="handheld-navigation"><ul id="menu-menucuoiki-1" class="menu">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-257"><a href="https://grasuki.github.io/mywordpress/">HOME</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258"><a href="https://grasuki.github.io/mywordpress/blog/">BLOG</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-260"><a href="https://grasuki.github.io/mywordpress/shop/">SHOP</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-259"><a href="https://grasuki.github.io/mywordpress/contact/">CONTACT</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1424"><a href="https://grasuki.github.io/mywordpress/about-us/">About us</a></li>
+			<div class="primary-navigation"><ul id="menu-menucuoiki-1" class="menu">
+<li class="active menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-257"><a href="https://grasuki.github.io/mywordpress/">HOME</a></li>
+<li class="blog menu-item menu-item-type-post_type menu-item-object-page menu-item-258"><a href="https://grasuki.github.io/mywordpress/blog/">BLOG</a></li>
+<li class="shop menu-item menu-item-type-post_type menu-item-object-page menu-item-260"><a href="https://grasuki.github.io/mywordpress/shop/">SHOP</a></li>
+<li class="contact menu-item menu-item-type-post_type menu-item-object-page menu-item-259"><a href="https://grasuki.github.io/mywordpress/contact/">CONTACT</a></li>
+<li class="aboutus menu-item menu-item-type-post_type menu-item-object-page menu-item-1424"><a href="https://grasuki.github.io/mywordpress/about-us/">ABOUT US</a></li>
+</ul></div>
+<div class="handheld-navigation"><ul id="menu-menucuoiki-2" class="menu">
+<li class="active menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-257"><a href="https://grasuki.github.io/mywordpress/">HOME</a></li>
+<li class="blog menu-item menu-item-type-post_type menu-item-object-page menu-item-258"><a href="https://grasuki.github.io/mywordpress/blog/">BLOG</a></li>
+<li class="shop menu-item menu-item-type-post_type menu-item-object-page menu-item-260"><a href="https://grasuki.github.io/mywordpress/shop/">SHOP</a></li>
+<li class="contact menu-item menu-item-type-post_type menu-item-object-page menu-item-259"><a href="https://grasuki.github.io/mywordpress/contact/">CONTACT</a></li>
+<li class="aboutus menu-item menu-item-type-post_type menu-item-object-page menu-item-1424"><a href="https://grasuki.github.io/mywordpress/about-us/">ABOUT US</a></li>
 </ul></div>		</nav><!-- #site-navigation -->
 				<ul id="site-header-cart" class="site-header-cart menu">
 			<li class="">
@@ -674,7 +714,7 @@ img.emoji {
 				<label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
 					<input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever"> <span>Remember me</span>
 				</label>
-				<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="a04689324e"><input type="hidden" name="_wp_http_referer" value="/test/my-account/">				<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Log in">Log in</button>
+				<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="f5c34e6b76"><input type="hidden" name="_wp_http_referer" value="/test/my-account/">				<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Log in">Log in</button>
 			</p>
 			<p class="woocommerce-LostPassword lost_password">
 				<a href="https://grasuki.github.io/mywordpress/my-account/lost-password/">Lost your password?</a>
@@ -771,7 +811,16 @@ img.emoji {
 </div>
 <!-- #page -->
 
-<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"http:\/\/localhost\/test"}},{"@type":"ListItem","position":2,"item":{"name":"My account","@id":"http:\/\/localhost\/test\/my-account\/"}}]}</script>	<script type="text/javascript">
+
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"http:\/\/localhost\/test"}},{"@type":"ListItem","position":2,"item":{"name":"My account","@id":"http:\/\/localhost\/test\/my-account\/"}}]}</script>	<script type="text/javascript">
 		(function () {
 			var c = document.body.className;
 			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
@@ -782,6 +831,10 @@ img.emoji {
 <style>.wp-container-2 > .alignleft { float: left; margin-inline-start: 0; margin-inline-end: 2em; }.wp-container-2 > .alignright { float: right; margin-inline-start: 2em; margin-inline-end: 0; }.wp-container-2 > .aligncenter { margin-left: auto !important; margin-right: auto !important; }</style>
 <style>.wp-container-3 > .alignleft { float: left; margin-inline-start: 0; margin-inline-end: 2em; }.wp-container-3 > .alignright { float: right; margin-inline-start: 2em; margin-inline-end: 0; }.wp-container-3 > .aligncenter { margin-left: auto !important; margin-right: auto !important; }</style>
 <style>.wp-container-4 > .alignleft { float: left; margin-inline-start: 0; margin-inline-end: 2em; }.wp-container-4 > .alignright { float: right; margin-inline-start: 2em; margin-inline-end: 0; }.wp-container-4 > .aligncenter { margin-left: auto !important; margin-right: auto !important; }</style>
+<link rel="stylesheet" id="rs-plugin-settings-css" href="https://grasuki.github.io/mywordpress/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.6.3" media="all">
+<style id="rs-plugin-settings-inline-css">#rs-demo-id {}</style>
+<script src="https://grasuki.github.io/mywordpress/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.3" defer async id="tp-tools-js"></script>
+<script src="https://grasuki.github.io/mywordpress/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.3" defer async id="revmin-js"></script>
 <script src="https://grasuki.github.io/mywordpress/wp-content/plugins/woocommerce/assets/js/select2/select2.full.min.js?ver=4.0.3-wc.6.9.4" id="select2-js"></script>
 <script id="devvn_tinhthanhpho-js-extra">
 var vncheckout_array = {"admin_ajax":"http:\/\/localhost\/test\/wp-admin\/admin-ajax.php","get_address":"http:\/\/localhost\/test\/wp-content\/plugins\/woo-vietnam-checkout\/get-address.php","home_url":"http:\/\/localhost\/test","formatNoMatches":"No value","phone_error":"Phone number is incorrect","loading_text":"Loading...","loadaddress_error":"Phone number does not exist"};
@@ -809,14 +862,9 @@ var storefrontScreenReaderText = {"expand":"Expand child menu","collapse":"Colla
 <script src="https://grasuki.github.io/mywordpress/wp-content/themes/storefront/assets/js/woocommerce/header-cart.min.js?ver=4.1.3" id="storefront-header-cart-js"></script>
 <script src="https://grasuki.github.io/mywordpress/wp-content/themes/storefront/assets/js/footer.min.js?ver=4.1.3" id="storefront-handheld-footer-bar-js"></script>
 <script id="eael-general-js-extra">
-var localize = {"ajaxurl":"http:\/\/localhost\/test\/wp-admin\/admin-ajax.php","nonce":"1ecc86ae5f","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"page_permalink":"http:\/\/localhost\/test\/my-account\/"};
+var localize = {"ajaxurl":"http:\/\/localhost\/test\/wp-admin\/admin-ajax.php","nonce":"33ec703b25","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"page_permalink":"http:\/\/localhost\/test\/my-account\/"};
 </script>
 <script src="https://grasuki.github.io/mywordpress/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.2.4" id="eael-general-js"></script>
-<script src="https://grasuki.github.io/mywordpress/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
-<script id="megamenu-js-extra">
-var megamenu = {"timeout":"300","interval":"100"};
-</script>
-<script src="https://grasuki.github.io/mywordpress/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=2.9.8" id="megamenu-js"></script>
 
 </body>
 </html>
