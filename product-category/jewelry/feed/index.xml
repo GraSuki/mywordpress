@@ -12,7 +12,7 @@
 	<atom:link href="https://grasuki.github.io/mywordpress/product-category/jewelry/feed/" rel="self" type="application/rss+xml" />
 	<link>https://grasuki.github.io/mywordpress</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 18 Oct 2022 08:03:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Oct 2022 06:26:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,140 +20,55 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
-		<title>Irregular raised earrings</title>
-		<link>https://grasuki.github.io/mywordpress/product/irregular-raised-earrings/</link>
-					<comments>https://grasuki.github.io/mywordpress/product/irregular-raised-earrings/#respond</comments>
+		<title>JEWELRY</title>
+		<link></link>
 		
 		<dc:creator><![CDATA[lethanhtien]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 09:02:23 +0000</pubDate>
-				<guid isPermaLink="false">https://grasuki.github.io/mywordpress/?post_type=product&#038;p=1405</guid>
+		<pubDate>Tue, 04 Oct 2022 06:26:13 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Crafted with coconut oil to help lock in moisture, so skin never feels dry or stripped. Unlike other soaps, our unique blend of coconut oil + clay is soothing to dry, red, irritated skin without any compromise on the scent. It’s ok if you do a happy dance. We do too because we have soft, smooth, hydrated skin and smell elegant.
-
-INGREDIENTS:
-
-Coconut Oil, Palm Oil, Safflower Oil, Kosher Vegetable Glycerine, Purified Water, Sodium Hydroxide, Sorbitol, Sorbitan Oleate, Soy Bean Protein.]]></description>
-										<content:encoded><![CDATA[<p>Keep your shampoo, body wash, and other bottles high and dry. We love these because they prevent those grungy rings that get left, leaving you scrubbing off your shower shelves! Let your razor, toothbrush, and jewelry dry without leaving residue behind. It is made of multi-directional bioplastic that allows water to drain and air to circulate. Cleans remarkably well by simply rinsing under running water and giving it a few squeezes.</p>
-<p>Don’t let your soap turn into muck! Soap Lift is made of a multi-directional bioplastic that allows water to drain and air to circulate. They can be used in soap dishes, on shower shelves, or on countertops. Cleans remarkably well by simply holding it under running water and giving it a few squeezes.</p>
-]]></content:encoded>
+					<description><![CDATA[Showing all 6 results Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Bubble candlesRated 0 out...]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-3 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Showing all 6 results</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Shop order">
+					<option value="menu_order"  selected='selected'>Default sorting</option>
+					<option value="popularity" >Sort by popularity</option>
+					<option value="rating" >Sort by average rating</option>
+					<option value="date" >Sort by latest</option>
+					<option value="price" >Sort by price: low to high</option>
+					<option value="price-desc" >Sort by price: high to low</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<ul class="products columns-3">
+<li class="product type-product post-1388 status-publish first instock product_cat-jewelry product_tag-candle product_tag-handmade product_tag-ideas has-post-thumbnail purchasable product-type-variable">
+	<a href="https://grasuki.github.io/mywordpress/product/bubble-candles/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://grasuki.github.io/mywordpress/wp-content/uploads/2022/10/product-7_1-1-6.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Bubble candles</h2><div class="eael-star-rating star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> out of 5</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>400.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://grasuki.github.io/mywordpress/product/bubble-candles/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="1388" data-product_sku="123456789-3" aria-label="Select options for &ldquo;Bubble candles&rdquo;" rel="nofollow">Select options</a></li>
+<li class="product type-product post-1396 status-publish instock product_cat-jewelry product_tag-accessories product_tag-jewelry has-post-thumbnail purchasable product-type-simple">
+	<a href="https://grasuki.github.io/mywordpress/product/chain-link-necklace/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://grasuki.github.io/mywordpress/wp-content/uploads/2022/10/product-7_1-1-8.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Chain link necklace</h2><div class="eael-star-rating star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> out of 5</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>200.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://grasuki.github.io/mywordpress/product/chain-link-necklace/?add-to-cart=1396" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1396" data-product_sku="123456789-4-2-1" aria-label="Add &ldquo;Chain link necklace&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+<li class="product type-product post-1399 status-publish last instock product_cat-jewelry product_tag-accessories product_tag-jewelry has-post-thumbnail purchasable product-type-simple">
+	<a href="https://grasuki.github.io/mywordpress/product/chain-necklace/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://grasuki.github.io/mywordpress/wp-content/uploads/2022/10/product-7_1-1-9.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Chain necklace</h2><div class="eael-star-rating star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> out of 5</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>200.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://grasuki.github.io/mywordpress/product/chain-necklace/?add-to-cart=1399" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1399" data-product_sku="123456789-4-2" aria-label="Add &ldquo;Chain necklace&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+<li class="product type-product post-1392 status-publish first instock product_cat-jewelry product_tag-natural has-post-thumbnail purchasable product-type-simple">
+	<a href="https://grasuki.github.io/mywordpress/product/honey-round-candle/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://grasuki.github.io/mywordpress/wp-content/uploads/2022/10/product-7_1-1-7.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Honey round candle</h2><div class="eael-star-rating star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> out of 5</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>600.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://grasuki.github.io/mywordpress/product/honey-round-candle/?add-to-cart=1392" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1392" data-product_sku="123456789-3-1" aria-label="Add &ldquo;Honey round candle&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+<li class="product type-product post-1405 status-publish instock product_cat-jewelry product_tag-accessories product_tag-jewelry has-post-thumbnail purchasable product-type-simple">
+	<a href="https://grasuki.github.io/mywordpress/product/irregular-raised-earrings/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://grasuki.github.io/mywordpress/wp-content/uploads/2022/10/product_13.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Irregular raised earrings</h2><div class="eael-star-rating star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> out of 5</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>200.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://grasuki.github.io/mywordpress/product/irregular-raised-earrings/?add-to-cart=1405" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1405" data-product_sku="123456789-4" aria-label="Add &ldquo;Irregular raised earrings&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+<li class="product type-product post-1402 status-publish last instock product_cat-jewelry product_tag-accessories product_tag-jewelry has-post-thumbnail purchasable product-type-simple">
+	<a href="https://grasuki.github.io/mywordpress/product/twisted-hoop-earrings/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://grasuki.github.io/mywordpress/wp-content/uploads/2022/10/product-7_1-1-10.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Twisted hoop earrings</h2><div class="eael-star-rating star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> out of 5</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>120.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://grasuki.github.io/mywordpress/product/twisted-hoop-earrings/?add-to-cart=1402" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1402" data-product_sku="123456789-4-1" aria-label="Add &ldquo;Twisted hoop earrings&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+</ul>
+</div>]]></content:encoded>
 					
-					<wfw:commentRss>https://grasuki.github.io/mywordpress/product/irregular-raised-earrings/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Twisted hoop earrings</title>
-		<link>https://grasuki.github.io/mywordpress/product/twisted-hoop-earrings/</link>
-					<comments>https://grasuki.github.io/mywordpress/product/twisted-hoop-earrings/#respond</comments>
-		
-		<dc:creator><![CDATA[lethanhtien]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 08:53:50 +0000</pubDate>
-				<guid isPermaLink="false">https://grasuki.github.io/mywordpress/?post_type=product&#038;p=1402</guid>
-
-					<description><![CDATA[Crafted with coconut oil to help lock in moisture, so skin never feels dry or stripped. Unlike other soaps, our unique blend of coconut oil + clay is soothing to dry, red, irritated skin without any compromise on the scent. It’s ok if you do a happy dance. We do too because we have soft, smooth, hydrated skin and smell elegant.
-
-INGREDIENTS:
-
-Coconut Oil, Palm Oil, Safflower Oil, Kosher Vegetable Glycerine, Purified Water, Sodium Hydroxide, Sorbitol, Sorbitan Oleate, Soy Bean Protein.]]></description>
-										<content:encoded><![CDATA[<p>Keep your shampoo, body wash, and other bottles high and dry. We love these because they prevent those grungy rings that get left, leaving you scrubbing off your shower shelves! Let your razor, toothbrush, and jewelry dry without leaving residue behind. It is made of multi-directional bioplastic that allows water to drain and air to circulate. Cleans remarkably well by simply rinsing under running water and giving it a few squeezes.</p>
-<p>Don’t let your soap turn into muck! Soap Lift is made of a multi-directional bioplastic that allows water to drain and air to circulate. They can be used in soap dishes, on shower shelves, or on countertops. Cleans remarkably well by simply holding it under running water and giving it a few squeezes.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://grasuki.github.io/mywordpress/product/twisted-hoop-earrings/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Chain necklace</title>
-		<link>https://grasuki.github.io/mywordpress/product/chain-necklace/</link>
-					<comments>https://grasuki.github.io/mywordpress/product/chain-necklace/#respond</comments>
-		
-		<dc:creator><![CDATA[lethanhtien]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 08:50:17 +0000</pubDate>
-				<guid isPermaLink="false">https://grasuki.github.io/mywordpress/?post_type=product&#038;p=1399</guid>
-
-					<description><![CDATA[Crafted with coconut oil to help lock in moisture, so skin never feels dry or stripped. Unlike other soaps, our unique blend of coconut oil + clay is soothing to dry, red, irritated skin without any compromise on the scent. It’s ok if you do a happy dance. We do too because we have soft, smooth, hydrated skin and smell elegant.
-
-INGREDIENTS:
-
-Coconut Oil, Palm Oil, Safflower Oil, Kosher Vegetable Glycerine, Purified Water, Sodium Hydroxide, Sorbitol, Sorbitan Oleate, Soy Bean Protein.]]></description>
-										<content:encoded><![CDATA[<p>Keep your shampoo, body wash, and other bottles high and dry. We love these because they prevent those grungy rings that get left, leaving you scrubbing off your shower shelves! Let your razor, toothbrush, and jewelry dry without leaving residue behind. It is made of multi-directional bioplastic that allows water to drain and air to circulate. Cleans remarkably well by simply rinsing under running water and giving it a few squeezes.</p>
-<p>Don’t let your soap turn into muck! Soap Lift is made of a multi-directional bioplastic that allows water to drain and air to circulate. They can be used in soap dishes, on shower shelves, or on countertops. Cleans remarkably well by simply holding it under running water and giving it a few squeezes.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://grasuki.github.io/mywordpress/product/chain-necklace/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Chain link necklace</title>
-		<link>https://grasuki.github.io/mywordpress/product/chain-link-necklace/</link>
-					<comments>https://grasuki.github.io/mywordpress/product/chain-link-necklace/#respond</comments>
-		
-		<dc:creator><![CDATA[lethanhtien]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 08:46:45 +0000</pubDate>
-				<guid isPermaLink="false">https://grasuki.github.io/mywordpress/?post_type=product&#038;p=1396</guid>
-
-					<description><![CDATA[Crafted with coconut oil to help lock in moisture, so skin never feels dry or stripped. Unlike other soaps, our unique blend of coconut oil + clay is soothing to dry, red, irritated skin without any compromise on the scent. It’s ok if you do a happy dance. We do too because we have soft, smooth, hydrated skin and smell elegant.
-
-INGREDIENTS:
-
-Coconut Oil, Palm Oil, Safflower Oil, Kosher Vegetable Glycerine, Purified Water, Sodium Hydroxide, Sorbitol, Sorbitan Oleate, Soy Bean Protein.]]></description>
-										<content:encoded><![CDATA[<p>Keep your shampoo, body wash, and other bottles high and dry. We love these because they prevent those grungy rings that get left, leaving you scrubbing off your shower shelves! Let your razor, toothbrush, and jewelry dry without leaving residue behind. It is made of multi-directional bioplastic that allows water to drain and air to circulate. Cleans remarkably well by simply rinsing under running water and giving it a few squeezes.</p>
-<p>Don’t let your soap turn into muck! Soap Lift is made of a multi-directional bioplastic that allows water to drain and air to circulate. They can be used in soap dishes, on shower shelves, or on countertops. Cleans remarkably well by simply holding it under running water and giving it a few squeezes.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://grasuki.github.io/mywordpress/product/chain-link-necklace/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Honey round candle</title>
-		<link>https://grasuki.github.io/mywordpress/product/honey-round-candle/</link>
-					<comments>https://grasuki.github.io/mywordpress/product/honey-round-candle/#respond</comments>
-		
-		<dc:creator><![CDATA[lethanhtien]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 08:43:57 +0000</pubDate>
-				<guid isPermaLink="false">https://grasuki.github.io/mywordpress/?post_type=product&#038;p=1392</guid>
-
-					<description><![CDATA[Crafted with coconut oil to help lock in moisture, so skin never feels dry or stripped. Unlike other soaps, our unique blend of coconut oil + clay is soothing to dry, red, irritated skin without any compromise on the scent. It’s ok if you do a happy dance. We do too because we have soft, smooth, hydrated skin and smell elegant.
-
-INGREDIENTS:
-
-Coconut Oil, Palm Oil, Safflower Oil, Kosher Vegetable Glycerine, Purified Water, Sodium Hydroxide, Sorbitol, Sorbitan Oleate, Soy Bean Protein.]]></description>
-										<content:encoded><![CDATA[<p>Keep your shampoo, body wash, and other bottles high and dry. We love these because they prevent those grungy rings that get left, leaving you scrubbing off your shower shelves! Let your razor, toothbrush, and jewelry dry without leaving residue behind. It is made of multi-directional bioplastic that allows water to drain and air to circulate. Cleans remarkably well by simply rinsing under running water and giving it a few squeezes.</p>
-<p>Don’t let your soap turn into muck! Soap Lift is made of a multi-directional bioplastic that allows water to drain and air to circulate. They can be used in soap dishes, on shower shelves, or on countertops. Cleans remarkably well by simply holding it under running water and giving it a few squeezes.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://grasuki.github.io/mywordpress/product/honey-round-candle/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Bubble candles</title>
-		<link>https://grasuki.github.io/mywordpress/product/bubble-candles/</link>
-					<comments>https://grasuki.github.io/mywordpress/product/bubble-candles/#respond</comments>
-		
-		<dc:creator><![CDATA[lethanhtien]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 08:41:27 +0000</pubDate>
-				<guid isPermaLink="false">https://grasuki.github.io/mywordpress/?post_type=product&#038;p=1388</guid>
-
-					<description><![CDATA[Crafted with coconut oil to help lock in moisture, so skin never feels dry or stripped. Unlike other soaps, our unique blend of coconut oil + clay is soothing to dry, red, irritated skin without any compromise on the scent. It’s ok if you do a happy dance. We do too because we have soft, smooth, hydrated skin and smell elegant.
-
-INGREDIENTS:
-
-Coconut Oil, Palm Oil, Safflower Oil, Kosher Vegetable Glycerine, Purified Water, Sodium Hydroxide, Sorbitol, Sorbitan Oleate, Soy Bean Protein.]]></description>
-										<content:encoded><![CDATA[<p>Keep your shampoo, body wash, and other bottles high and dry. We love these because they prevent those grungy rings that get left, leaving you scrubbing off your shower shelves! Let your razor, toothbrush, and jewelry dry without leaving residue behind. It is made of multi-directional bioplastic that allows water to drain and air to circulate. Cleans remarkably well by simply rinsing under running water and giving it a few squeezes.</p>
-<p>Don’t let your soap turn into muck! Soap Lift is made of a multi-directional bioplastic that allows water to drain and air to circulate. They can be used in soap dishes, on shower shelves, or on countertops. Cleans remarkably well by simply holding it under running water and giving it a few squeezes.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://grasuki.github.io/mywordpress/product/bubble-candles/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
