@@ -49,6 +49,86 @@
     background: #db7137;
     box-shadow: 10px 0px #db7137, 20px 0px #db7137, 30px 0px #db7137, 40px 0px #db7137, 50px 0px #db7137, 60px 0px #db7137, 70px 0px #db7137, 80px 0px #db7137;
 }/* End custom CSS */
+/* Start custom CSS for image-carousel, class: .elementor-element-adbe25d */img[alt="client-1-1"] {
+    width: 0.1px;
+}
+.client12 {
+    transition: all 0.5s ease;
+    position: absolute;
+    margin-top: 31px;
+}
+.ex:hover .client12{
+    position: absolute;
+    transition: all 0.5s ease;
+    margin-top: -31px !important;
+}
+.ex:hover .client11{
+ transition: all 0.5s ease;
+ margin-top: 31px;
+}
+
+
+.client22 {
+    transition: all 0.5s ease;
+    margin-top: -88px;
+}
+.ex:hover .client22{
+    transition: all 0.5s ease;
+    margin-top: 0px !important;
+}
+.ex:hover .client21{
+ transition: all 0.5s ease;
+ margin-top: 88px;
+}
+.client32 {
+    transition: all 0.5s ease;
+    margin-top: -40px;
+}
+.ex:hover .client32{
+    transition: all 0.5s ease;
+    margin-top: 0px !important;
+}
+.ex:hover .client31{
+ transition: all 0.5s ease;
+ margin-top: 40px;
+}
+.client42 {
+    transition: all 0.5s ease;
+    margin-top: -95px;
+}
+.ex:hover .client42{
+    transition: all 0.5s ease;
+    margin-top: 0px !important;
+}
+.ex:hover .client41{
+ transition: all 0.5s ease;
+ margin-top: 95px;
+}
+
+.client52 {
+    transition: all 0.5s ease;
+    margin-top: -82px;
+}
+.ex:hover .client52{
+    transition: all 0.5s ease;
+    margin-top: 0px !important;
+}
+.ex:hover .client51{
+ transition: all 0.5s ease;
+ margin-top: 82px;
+}
+.client62 {
+    transition: all 0.5s ease;
+    margin-top: -53px;
+}
+.ex:hover .client62{
+    transition: all 0.5s ease;
+    margin-top: 0px !important;
+}
+.ex:hover .client61{
+ transition: all 0.5s ease;
+ margin-top: 53px;
+}/* End custom CSS */
 /* Start custom CSS for image-carousel, class: .elementor-element-d0f153e */.tooltip {
  position: absolute;
  top: 0;
